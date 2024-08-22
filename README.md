@@ -1,16 +1,16 @@
-## Hi there 👋
+## Querino Anschau Jr
+🇧🇷 🇨🇦
 
-<!--
-**qanschau/qanschau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working in the Government of New Brunswick as a Senior Business Analyst
+- 🌱 I’m currently learning JAVA
+- 👯 I’m looking to collaborate on JAVA Projects
+- 💬 Ask me about ITIL, ITSM, PROGRAMMING (WEB - HTML, CSS, ANGULAR)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to play tennis and enjoy listen and play rock n' roll 🤘
 
-Here are some ideas to get you started:
+### Contacts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href = "mailto:querinojunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/querinojunior/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn Badge" target="_blank"></a>   
+</div>
