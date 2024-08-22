@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in the Government of New Brunswick as a Senior Business Analyst
 - 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on JAVA Projects
-- 💬 Ask me about ITIL, ITSM, PROGRAMMING (WEB - HTML, CSS, ANGULAR)
+- 💬 Ask me about ITIL, ITSM, PROGRAMMING (JAVA, JAVASCRIPT, HTML, CSS, ANGULAR)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play tennis and enjoy listen and play rock n' roll 🤘
 
